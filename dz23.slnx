@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/" />
+  <Project Path="dz23/dz23.vcxproj" Id="4dfaf0b9-8718-4776-bc7f-c166220261a4" />
+</Solution>
